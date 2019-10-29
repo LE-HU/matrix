@@ -13,9 +13,13 @@ permalink: /
 
 # WCZYTANO PROTOKÓŁ - WPIERDOL
 
-##  OFIARY
+##  CEL:
+
 * Małpa
 * Kulas
 * Wukio
 * Gruby
+* Pietras
 * Misiałke
+
+![gif](https://i.imgflip.com/3epb3g.gif)
