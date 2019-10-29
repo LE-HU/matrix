@@ -17,5 +17,6 @@ permalink: /
 * Wukio
 * Gruby
 * Pietras
-* Misiałke 
+* Misiałke
+
 ![gif](https://i.imgflip.com/3epb3g.gif)
