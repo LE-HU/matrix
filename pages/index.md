@@ -1,5 +1,6 @@
 ---
-encrypted_text: true
+layout: default
+encrypted_text: false
 ---
 
 # WCZYTANO PROTOKÓŁ - WPIERDOL
